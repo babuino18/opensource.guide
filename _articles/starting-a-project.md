@@ -334,7 +334,9 @@ If you're an individual:
   </label>
 </div>
 
-If you're a company or organization:
+If you're a company
+
+r organization:
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
